@@ -12,7 +12,7 @@ Members:
 
 Overleaf link: https://www.overleaf.com/8815891793kmvhxgbrtxrd
 
-Slides link: 
+Slides link: https://docs.google.com/presentation/d/1XOXfbppqUoxdT56EjiTTIbVg3RFzAokW/edit?usp=sharing&ouid=104820581266145318106&rtpof=true&sd=true 
 
-Youtube playlist link: 
+Youtube playlist link:  
 
