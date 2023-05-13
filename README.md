@@ -16,3 +16,11 @@ Slides link: https://docs.google.com/presentation/d/1XOXfbppqUoxdT56EjiTTIbVg3RF
 
 Youtube playlist link: https://youtu.be/L_Z0q_LpmNM 
 
+Conference login link for submitted paper: https://easychair.org/conferences/submission?submission=6527633;a=30927167
+
+Conference Name: 2nd Computer Applications and Solutions (CATS'23)
+
+Conference URL:https://cats23.gust.edu.kw/    
+
+Conference Submission Date: 11/05/23
+
